@@ -114,10 +114,6 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-   wangerxiaofangniuwa: {
-        api: 'http://tvbox.王二小放牛娃.top/',
-        name: '王二小放牛娃',
-},
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
