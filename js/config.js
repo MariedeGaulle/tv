@@ -115,7 +115,7 @@ const API_SITES = {
         name: '量子资源站'
     },
     wangxiaoer: {
-        api: 'http://k.znds.com/movie/api.php/provide/vod',
+        api: 'http://k.znds.com/api.php/provide/vod',
         name: '哈哈哈',
 },
     testSource: {
