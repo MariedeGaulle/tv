@@ -116,7 +116,7 @@ const API_SITES = {
     },
     wangxiaoer: {
         api: 'http://k.znds.com/movie/api.php/provide/vod',
-    name: '哈哈哈',
+        name: '哈哈哈',
 },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
