@@ -114,6 +114,11 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+wangxiaoer: {
+    api: 'http://tvbox.%E7%8E%8B%E4%BA%8C%E5%B0%8F%E6%94%BE%E7%89%9B%E5%A8%83.top/api.php/provide/vod',
+    name: 'wangxiaoer',
+},
+
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
