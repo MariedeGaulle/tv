@@ -114,9 +114,9 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-fantaiying: {
-    name: '饭太硬',
-    api: 'http://www.饭太硬.com/api.php/provide/vod/'
+   fantaiying: {
+         api:                    'http://www.饭太硬.com/api.php/provide/vod/,
+      name: '饭太硬',
   },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
