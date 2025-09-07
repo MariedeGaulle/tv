@@ -114,8 +114,9 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
+    mp: {
+        api: 
+'/https://mpanso.me/DEMO.json/api.php/provide/vod',
         name: '新生资源',
     },
     testSource: {
