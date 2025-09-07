@@ -114,10 +114,10 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    mp: {
+    wangxiaoer: {
         api: 
-'/https://mpanso.me/DEMO.json/api.php/provide/vod',
-        name: '新生资源',
+'http://tvbox.王二小放牛娃.top/api.php/provide/vod',
+        name: 'wangxiaoer',
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
