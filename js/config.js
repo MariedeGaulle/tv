@@ -114,8 +114,8 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-wangxiaoer: {
-    api: 'http://k.znds.com/movie/api.php/provide/vod',
+    wangxiaoer: {
+        api: 'http://k.znds.com/movie/api.php/provide/vod',
     name: '哈哈哈',
 },
     testSource: {
